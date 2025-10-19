@@ -4,7 +4,7 @@ A modern, responsive todo application built with React 19, Vite, and Tailwind CS
 
 ## 🌐 Live Demo
 
-🔗 [View Live Demo](https://your-deployment-url.com) *(Coming soon)*
+🔗 https://todo-app-project-alpha.vercel.app/
 
 ## ✨ Features
 
